@@ -1,4 +1,4 @@
-# GrayHub PWA
+# GrayHub 
 
 A modern Progressive Web App (PWA) project designed with a clean and responsive user interface.
 
